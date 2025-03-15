@@ -1,1 +1,1 @@
-
+This notebook is identical to the one submitted on Kaggle. However, this notebook includes the plots of the accuracy and loss. Ignoring the inclusion of the plots in this notebook, the files are identical.
